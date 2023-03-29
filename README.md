@@ -1,6 +1,6 @@
 # Chatbot
 
-Project Description:
+# Project Description:
 This is a basic chatbot that generates responses by learning the percentage of words in a given message and then generating the closest response to the responses stored in the database. The project utilizes natural language processing techniques to analyze the input message, identify the key terms, and generate a relevant response.
 
 The system is built using Python and mySQL The project has a simple user interface that allows users to input their message, and the system generates a response based on the input message.
